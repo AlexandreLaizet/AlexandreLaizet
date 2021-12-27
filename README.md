@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexandreLaizet
 - 👀 I’m interested in Bitcoin on-chain analysis
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently training to evolve as a Data & Analytics Senior Consultant at EY
 - 💞️ I’m looking to collaborate on a blockchain data analysis project
 - 📫 How to reach me: LinkedIn
 
